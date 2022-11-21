@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jorggegrr
--  Name: Jorge Luis Guillen Rivera
-- 
+- 👋 Hi, I’m @jorggegrr 
 
 <!---
 jorggegrr/jorggegrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
